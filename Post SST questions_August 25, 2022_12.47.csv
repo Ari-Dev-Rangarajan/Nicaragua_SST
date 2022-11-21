@@ -1,0 +1,175 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q1_1,Q1_2,Q1_3,Q1_4,Q1_5,Q1_6,Q1_7,Q2_1,Q2_2,Q2_3,Q2_4,Q2_5,Q3_1,Q3_2,Q3_3,Q3_4,Q3_5,Q3_6,Q3_7,Q3_8,Q3_9,Q4_1_1,Q4_1_2,Q4_1_3,Q4_1_4,Q4_1_5,Q4_2_1,Q4_2_2,Q4_2_3,Q4_2_4,Q4_2_5,Q4_3_1,Q4_3_2,Q4_3_3,Q4_3_4,Q4_3_5,Q4_4_1,Q4_4_2,Q4_4_3,Q4_4_4,Q4_4_5,Q4_5_1,Q4_5_2,Q4_5_3,Q4_5_4,Q4_5_5,Q4_6_1,Q4_6_2,Q4_6_3,Q4_6_4,Q4_6_5,Q5_1,Q5_2,Q5_3,Q5_4,Q5_5,Q5_6,Q5_7,Q5_8,Q5_9,Q5_10,Q6_1,Q6_2,Q6_3,Q6_4,Q6_5,Q6_6,Q6_7,Q6_8,Q6_9,Q6_10,Q8,Q9_1,Q9_2,Q9_3,Q9_4,Q10,Q11
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,"What are the responsibilities of a supervisor? 
+  Choose all that apply. - Enforce high work standards","What are the responsibilities of a supervisor? 
+  Choose all that apply. - Communicate with upper management and workers","What are the responsibilities of a supervisor? 
+  Choose all that apply. - Monitor workers’ work performance","What are the responsibilities of a supervisor? 
+  Choose all that apply. - Coach and give feedback to workers","What are the responsibilities of a supervisor? 
+  Choose all that apply. - Solve work problems","What are the responsibilities of a supervisor? 
+  Choose all that apply. - Enforce discipline","What are the responsibilities of a supervisor? 
+  Choose all that apply. - Respect and uphold workers’ rights","What are the appropriate objectives of correcting poor work
+  performance? 
+  Choose all that apply. - To improve workers’ performance","What are the appropriate objectives of correcting poor work
+  performance? 
+  Choose all that apply. - To increase discipline","What are the appropriate objectives of correcting poor work
+  performance? 
+  Choose all that apply. - To reduce product defects/rejection rate","What are the appropriate objectives of correcting poor work
+  performance? 
+  Choose all that apply. - To punish or humiliate workers","What are the appropriate objectives of correcting poor work
+  performance? 
+  Choose all that apply. - To show someone that “I’m the boss”","What may constitute harassment among the behaviours below? 
+  Choose all that apply. - Physical violence ","What may constitute harassment among the behaviours below? 
+  Choose all that apply. - Touching","What may constitute harassment among the behaviours below? 
+  Choose all that apply. - Shouting","What may constitute harassment among the behaviours below? 
+  Choose all that apply. - Comments and questions about appearance","What may constitute harassment among the behaviours below? 
+  Choose all that apply. - Offensive phone calls","What may constitute harassment among the behaviours below? 
+  Choose all that apply. - Throwing things at others","What may constitute harassment among the behaviours below? 
+  Choose all that apply. - Display of sexual materials","What may constitute harassment among the behaviours below? 
+  Choose all that apply. - Whistling","What may constitute harassment among the behaviours below? 
+  Choose all that apply. - All of the above","Please indicate how
+  much you agree or disagree with the following statements. - I deserve respect from my workers because I hold the role of supervisor. - Strongly disagree","Please indicate how
+  much you agree or disagree with the following statements. - I deserve respect from my workers because I hold the role of supervisor. - Disagree","Please indicate how
+  much you agree or disagree with the following statements. - I deserve respect from my workers because I hold the role of supervisor. - Neither agree nor disagree","Please indicate how
+  much you agree or disagree with the following statements. - I deserve respect from my workers because I hold the role of supervisor. - Agree","Please indicate how
+  much you agree or disagree with the following statements. - I deserve respect from my workers because I hold the role of supervisor. - Strongly agree","Please indicate how
+  much you agree or disagree with the following statements. - I need to win respect from my workers through practical, positive actions, and by setting a good example. - Strongly disagree","Please indicate how
+  much you agree or disagree with the following statements. - I need to win respect from my workers through practical, positive actions, and by setting a good example. - Disagree","Please indicate how
+  much you agree or disagree with the following statements. - I need to win respect from my workers through practical, positive actions, and by setting a good example. - Neither agree nor disagree","Please indicate how
+  much you agree or disagree with the following statements. - I need to win respect from my workers through practical, positive actions, and by setting a good example. - Agree","Please indicate how
+  much you agree or disagree with the following statements. - I need to win respect from my workers through practical, positive actions, and by setting a good example. - Strongly agree","Please indicate how
+  much you agree or disagree with the following statements. - Workers will not work hard unless they are forced to. - Strongly disagree","Please indicate how
+  much you agree or disagree with the following statements. - Workers will not work hard unless they are forced to. - Disagree","Please indicate how
+  much you agree or disagree with the following statements. - Workers will not work hard unless they are forced to. - Neither agree nor disagree","Please indicate how
+  much you agree or disagree with the following statements. - Workers will not work hard unless they are forced to. - Agree","Please indicate how
+  much you agree or disagree with the following statements. - Workers will not work hard unless they are forced to. - Strongly agree","Please indicate how
+  much you agree or disagree with the following statements. - Workers respond better to threats than encouragement - Strongly disagree","Please indicate how
+  much you agree or disagree with the following statements. - Workers respond better to threats than encouragement - Disagree","Please indicate how
+  much you agree or disagree with the following statements. - Workers respond better to threats than encouragement - Neither agree nor disagree","Please indicate how
+  much you agree or disagree with the following statements. - Workers respond better to threats than encouragement - Agree","Please indicate how
+  much you agree or disagree with the following statements. - Workers respond better to threats than encouragement - Strongly agree","Please indicate how
+  much you agree or disagree with the following statements. - Workers are more productive if they feel comfortable and safe at work. - Strongly disagree","Please indicate how
+  much you agree or disagree with the following statements. - Workers are more productive if they feel comfortable and safe at work. - Disagree","Please indicate how
+  much you agree or disagree with the following statements. - Workers are more productive if they feel comfortable and safe at work. - Neither agree nor disagree","Please indicate how
+  much you agree or disagree with the following statements. - Workers are more productive if they feel comfortable and safe at work. - Agree","Please indicate how
+  much you agree or disagree with the following statements. - Workers are more productive if they feel comfortable and safe at work. - Strongly agree","Please indicate how
+  much you agree or disagree with the following statements. - Ensuring that workers have good working conditions helps me to achieve production goals. - Strongly disagree","Please indicate how
+  much you agree or disagree with the following statements. - Ensuring that workers have good working conditions helps me to achieve production goals. - Disagree","Please indicate how
+  much you agree or disagree with the following statements. - Ensuring that workers have good working conditions helps me to achieve production goals. - Neither agree nor disagree","Please indicate how
+  much you agree or disagree with the following statements. - Ensuring that workers have good working conditions helps me to achieve production goals. - Agree","Please indicate how
+  much you agree or disagree with the following statements. - Ensuring that workers have good working conditions helps me to achieve production goals. - Strongly agree","Imagine a female worker is unmotivated and is missing her production
+  and quality targets. What are some of the strategies I  could take as an
+  effective supervisor to motivate her to perform better? 
+  Check all that apply. - Divide the work into smaller tasks ","Imagine a female worker is unmotivated and is missing her production
+  and quality targets. What are some of the strategies I  could take as an
+  effective supervisor to motivate her to perform better? 
+  Check all that apply. - Establish two-way communication","Imagine a female worker is unmotivated and is missing her production
+  and quality targets. What are some of the strategies I  could take as an
+  effective supervisor to motivate her to perform better? 
+  Check all that apply. - Tell the worker she is too slow compared to her peers ","Imagine a female worker is unmotivated and is missing her production
+  and quality targets. What are some of the strategies I  could take as an
+  effective supervisor to motivate her to perform better? 
+  Check all that apply. - Forbid the worker from asking questions until their work speeds up","Imagine a female worker is unmotivated and is missing her production
+  and quality targets. What are some of the strategies I  could take as an
+  effective supervisor to motivate her to perform better? 
+  Check all that apply. - Listen to the worker to understand what problems they may be having","Imagine a female worker is unmotivated and is missing her production
+  and quality targets. What are some of the strategies I  could take as an
+  effective supervisor to motivate her to perform better? 
+  Check all that apply. - Find ways to arouse interest in learning the job","Imagine a female worker is unmotivated and is missing her production
+  and quality targets. What are some of the strategies I  could take as an
+  effective supervisor to motivate her to perform better? 
+  Check all that apply. - Instruct the worker on each stage of the job ","Imagine a female worker is unmotivated and is missing her production
+  and quality targets. What are some of the strategies I  could take as an
+  effective supervisor to motivate her to perform better? 
+  Check all that apply. - Demonstrate how to complete the job or task","Imagine a female worker is unmotivated and is missing her production
+  and quality targets. What are some of the strategies I  could take as an
+  effective supervisor to motivate her to perform better? 
+  Check all that apply. - Shout at her to motivate her to work faster ","Imagine a female worker is unmotivated and is missing her production
+  and quality targets. What are some of the strategies I  could take as an
+  effective supervisor to motivate her to perform better? 
+  Check all that apply. - Threaten to dock her pay if performance does not improve","Imagine a male worker is unmotivated and is missing his production and
+  quality targets. What are some of the strategies I could take as an
+  effective supervisor to motivate him to perform better? 
+  Check all that apply. - Divide the work into smaller tasks ","Imagine a male worker is unmotivated and is missing his production and
+  quality targets. What are some of the strategies I could take as an
+  effective supervisor to motivate him to perform better? 
+  Check all that apply. - Establish two-way communication","Imagine a male worker is unmotivated and is missing his production and
+  quality targets. What are some of the strategies I could take as an
+  effective supervisor to motivate him to perform better? 
+  Check all that apply. - Tell the worker he is too slow compared to his peers ","Imagine a male worker is unmotivated and is missing his production and
+  quality targets. What are some of the strategies I could take as an
+  effective supervisor to motivate him to perform better? 
+  Check all that apply. - Forbid the worker from asking questions until their work speeds up","Imagine a male worker is unmotivated and is missing his production and
+  quality targets. What are some of the strategies I could take as an
+  effective supervisor to motivate him to perform better? 
+  Check all that apply. - Listen to the worker to understand what problems they may be having","Imagine a male worker is unmotivated and is missing his production and
+  quality targets. What are some of the strategies I could take as an
+  effective supervisor to motivate him to perform better? 
+  Check all that apply. - Find ways to arouse interest in learning the job","Imagine a male worker is unmotivated and is missing his production and
+  quality targets. What are some of the strategies I could take as an
+  effective supervisor to motivate him to perform better? 
+  Check all that apply. - Instruct the worker on each stage of the job ","Imagine a male worker is unmotivated and is missing his production and
+  quality targets. What are some of the strategies I could take as an
+  effective supervisor to motivate him to perform better? 
+  Check all that apply. - Demonstrate how to complete the job or task","Imagine a male worker is unmotivated and is missing his production and
+  quality targets. What are some of the strategies I could take as an
+  effective supervisor to motivate him to perform better? 
+  Check all that apply. - Shout at him to motivate him to work faster","Imagine a male worker is unmotivated and is missing his production and
+  quality targets. What are some of the strategies I could take as an
+  effective supervisor to motivate him to perform better? 
+  Check all that apply. - Threaten to dock his pay if performance does not improve ",What is your gender?,"What is your role in the factory? - Production worker (sewing, cutting, ironing, finishing, QC etc)","What is your role in the factory? - Non-production worker (mechanic, security, etc)","What is your role in the factory? - Supervisor (production, cutting, quality etc)","What is your role in the factory? - Management or administrative (GM, HR, accounting, etc)",How long have you worked in this factory?,Please add your survey ID (if applicable)
+"{""ImportId"":""startDate"",""timeZone"":""Europe/Berlin""}","{""ImportId"":""endDate"",""timeZone"":""Europe/Berlin""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""Europe/Berlin""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID1"",""choiceId"":""1""}","{""ImportId"":""QID1"",""choiceId"":""2""}","{""ImportId"":""QID1"",""choiceId"":""3""}","{""ImportId"":""QID1"",""choiceId"":""4""}","{""ImportId"":""QID1"",""choiceId"":""5""}","{""ImportId"":""QID1"",""choiceId"":""6""}","{""ImportId"":""QID1"",""choiceId"":""7""}","{""ImportId"":""QID2"",""choiceId"":""1""}","{""ImportId"":""QID2"",""choiceId"":""2""}","{""ImportId"":""QID2"",""choiceId"":""3""}","{""ImportId"":""QID2"",""choiceId"":""4""}","{""ImportId"":""QID2"",""choiceId"":""5""}","{""ImportId"":""QID3"",""choiceId"":""1""}","{""ImportId"":""QID3"",""choiceId"":""2""}","{""ImportId"":""QID3"",""choiceId"":""3""}","{""ImportId"":""QID3"",""choiceId"":""4""}","{""ImportId"":""QID3"",""choiceId"":""5""}","{""ImportId"":""QID3"",""choiceId"":""6""}","{""ImportId"":""QID3"",""choiceId"":""7""}","{""ImportId"":""QID3"",""choiceId"":""8""}","{""ImportId"":""QID3"",""choiceId"":""9""}","{""ImportId"":""QID4_1"",""choiceId"":""1""}","{""ImportId"":""QID4_1"",""choiceId"":""2""}","{""ImportId"":""QID4_1"",""choiceId"":""3""}","{""ImportId"":""QID4_1"",""choiceId"":""4""}","{""ImportId"":""QID4_1"",""choiceId"":""5""}","{""ImportId"":""QID4_2"",""choiceId"":""1""}","{""ImportId"":""QID4_2"",""choiceId"":""2""}","{""ImportId"":""QID4_2"",""choiceId"":""3""}","{""ImportId"":""QID4_2"",""choiceId"":""4""}","{""ImportId"":""QID4_2"",""choiceId"":""5""}","{""ImportId"":""QID4_3"",""choiceId"":""1""}","{""ImportId"":""QID4_3"",""choiceId"":""2""}","{""ImportId"":""QID4_3"",""choiceId"":""3""}","{""ImportId"":""QID4_3"",""choiceId"":""4""}","{""ImportId"":""QID4_3"",""choiceId"":""5""}","{""ImportId"":""QID4_4"",""choiceId"":""1""}","{""ImportId"":""QID4_4"",""choiceId"":""2""}","{""ImportId"":""QID4_4"",""choiceId"":""3""}","{""ImportId"":""QID4_4"",""choiceId"":""4""}","{""ImportId"":""QID4_4"",""choiceId"":""5""}","{""ImportId"":""QID4_5"",""choiceId"":""1""}","{""ImportId"":""QID4_5"",""choiceId"":""2""}","{""ImportId"":""QID4_5"",""choiceId"":""3""}","{""ImportId"":""QID4_5"",""choiceId"":""4""}","{""ImportId"":""QID4_5"",""choiceId"":""5""}","{""ImportId"":""QID4_6"",""choiceId"":""1""}","{""ImportId"":""QID4_6"",""choiceId"":""2""}","{""ImportId"":""QID4_6"",""choiceId"":""3""}","{""ImportId"":""QID4_6"",""choiceId"":""4""}","{""ImportId"":""QID4_6"",""choiceId"":""5""}","{""ImportId"":""QID5"",""choiceId"":""1""}","{""ImportId"":""QID5"",""choiceId"":""2""}","{""ImportId"":""QID5"",""choiceId"":""3""}","{""ImportId"":""QID5"",""choiceId"":""4""}","{""ImportId"":""QID5"",""choiceId"":""5""}","{""ImportId"":""QID5"",""choiceId"":""6""}","{""ImportId"":""QID5"",""choiceId"":""7""}","{""ImportId"":""QID5"",""choiceId"":""8""}","{""ImportId"":""QID5"",""choiceId"":""9""}","{""ImportId"":""QID5"",""choiceId"":""10""}","{""ImportId"":""QID6"",""choiceId"":""1""}","{""ImportId"":""QID6"",""choiceId"":""2""}","{""ImportId"":""QID6"",""choiceId"":""3""}","{""ImportId"":""QID6"",""choiceId"":""4""}","{""ImportId"":""QID6"",""choiceId"":""5""}","{""ImportId"":""QID6"",""choiceId"":""6""}","{""ImportId"":""QID6"",""choiceId"":""7""}","{""ImportId"":""QID6"",""choiceId"":""8""}","{""ImportId"":""QID6"",""choiceId"":""9""}","{""ImportId"":""QID6"",""choiceId"":""10""}","{""ImportId"":""QID8""}","{""ImportId"":""QID9"",""choiceId"":""1""}","{""ImportId"":""QID9"",""choiceId"":""2""}","{""ImportId"":""QID9"",""choiceId"":""3""}","{""ImportId"":""QID9"",""choiceId"":""4""}","{""ImportId"":""QID10""}","{""ImportId"":""QID11_TEXT""}"
+2021-11-30 16:20:18,2021-11-30 16:26:17,0,186.77.132.30,100,359,1,2021-11-30 16:26:18,R_20Z3QWINevXBfPa,,,,,12.15179443359375,-86.2711029052734375,qr,ES,1,,1,1,1,1,1,1,,,,,1,,1,1,,1,,,,,,,1,,,,,,1,,1,,,,1,,,,,,,,,1,,,,,1,,,,,1,1,1,1,,,,,,,1,1,1,1,,,1,,,1,,3,
+2021-11-30 16:19:55,2021-11-30 16:28:05,0,186.77.133.108,100,489,1,2021-11-30 16:28:05,R_3DkdQkIDKOnIiMs,,,,,12.15179443359375,-86.2711029052734375,qr,ES,,,1,,,1,,1,,,,,,1,1,,,,1,,,1,,,,,1,,,,,1,,,,,1,,,,,,,,,1,,,,,1,1,,,,1,1,,,,,1,,,,1,1,1,,,,1,,,1,,5,
+2021-11-30 16:18:55,2021-11-30 16:29:13,0,186.77.134.18,100,617,1,2021-11-30 16:29:13,R_XR2sTpQq6ym1Sx3,,,,,12.15179443359375,-86.2711029052734375,qr,ES,1,1,1,1,1,1,1,1,1,1,,,,,,,,,,,1,,,,,1,,,,,1,,1,,,,1,,,,,,,,,1,,,,,1,,,,,1,1,1,1,,,,1,,,,1,1,1,,,2,,,1,,4,
+2021-11-30 16:20:14,2021-11-30 16:29:43,0,186.77.136.125,100,568,1,2021-11-30 16:29:43,R_3mZrOpCcBYHShe9,,,,,13.0814056396484375,-86.342498779296875,qr,ES,1,1,1,1,1,1,1,1,1,1,,,1,1,1,,1,1,1,1,,,,,,1,,,,1,,,1,,,,,1,,,,,,,,1,,,,,1,,,,,1,,1,1,,,,1,,,1,,1,,,,2,,,1,,4,
+2021-11-30 16:24:41,2021-11-30 16:30:01,0,186.77.133.123,100,320,1,2021-11-30 16:30:01,R_3gMW1CyHOypNLj8,,,,,12.15179443359375,-86.2711029052734375,qr,ES,1,1,,1,1,,1,1,,1,,,,,,,,,,,1,1,,,,,,,,1,,,1,,,,,,1,,,,,,,1,,,,1,,,,,,1,1,1,,,,,,,,,1,1,,,,2,,,1,,6,
+2021-11-30 16:19:45,2021-11-30 16:30:02,0,186.77.137.8,100,616,1,2021-11-30 16:30:02,R_216eK31cPcnkJ7k,,,,,12.15179443359375,-86.2711029052734375,qr,ES,1,1,1,1,1,1,1,1,1,1,,,1,1,1,1,1,1,1,1,,,,,1,,,,,,1,,,,1,,,1,,,,,,,1,,,,,,1,,1,,,1,1,1,,,,,1,,,1,1,1,1,,,2,,,1,,5,
+2021-11-30 16:24:52,2021-11-30 16:33:04,0,186.77.136.243,100,492,1,2021-11-30 16:33:04,R_2B3eFOqGeZxZPof,,,,,12.15179443359375,-86.2711029052734375,qr,ES,1,1,1,1,1,1,1,1,1,1,,,1,1,1,,,,,,1,,,,1,,,,,1,,,1,,,,1,,,,,,,,,1,,,,,1,,1,,,1,1,1,1,,,,1,,,1,1,1,1,,,2,,,1,,6,
+2021-11-30 16:27:59,2021-11-30 16:34:08,0,186.77.136.205,100,369,1,2021-11-30 16:34:09,R_241QNAVM0vvq3as,,,,,12.15179443359375,-86.2711029052734375,qr,ES,1,,,,,,,1,,,,,,1,,1,,,,,,1,,,,,1,,,,,1,,,,,1,,,1,,,,,,1,,,,,1,,,,,1,,,,,,,,,,1,,,,,,2,,,1,,6,
+2021-11-30 16:21:53,2021-11-30 16:35:19,0,152.231.34.201,100,805,1,2021-11-30 16:35:19,R_Ajj0iv6xYOO8CvT,,,,,12.15179443359375,-86.2711029052734375,qr,ES,1,1,1,1,1,1,1,1,1,1,,,,1,1,1,1,,1,1,,,,,1,,,,,,1,,1,,,,,1,,,,,,,,1,,,,,1,,,,,1,1,1,1,,,,,,,1,1,1,1,,,2,,1,,,3,
+2021-11-30 16:27:19,2021-11-30 16:36:46,0,186.77.136.214,100,567,1,2021-11-30 16:36:47,R_2dFshHpDwmMu1y6,,,,,12.15179443359375,-86.2711029052734375,qr,ES,1,1,1,1,1,1,1,1,1,1,,,1,1,1,,,,,,1,,1,,,,1,,,,,,1,,,,,1,,,,1,,,,,1,,,,,1,,,,1,1,1,,,,,,,,1,1,1,1,,,2,,,1,,3,
+2021-11-30 16:22:35,2021-11-30 16:39:00,0,186.77.136.98,100,985,1,2021-11-30 16:39:00,R_3OjjLOteLsbFIOd,,,,,13.0814056396484375,-86.342498779296875,qr,ES,1,1,1,1,1,1,1,1,1,1,,,1,1,1,1,1,1,1,1,1,,,1,,,1,,,,,1,,,,,1,,,,,,,,,1,,,,,1,,1,,,1,1,1,1,,,,1,,,,1,1,1,,,2,,,1,,6,
+2021-11-30 16:27:05,2021-11-30 16:39:27,0,186.77.136.144,100,742,1,2021-11-30 16:39:28,R_1mfRX32hAH8Hhhy,,,,,12.15179443359375,-86.2711029052734375,qr,ES,1,1,1,1,1,1,1,1,1,1,,,1,1,1,1,1,1,1,1,1,,,1,,,,,,,1,1,,,,,1,,,,,,,,1,,,,,1,,,,,,1,1,1,1,,,,,,,1,1,1,1,,,2,,,1,,6,
+2021-11-30 16:24:02,2021-11-30 16:44:57,0,186.77.133.34,90,1254,0,2021-12-07 16:44:57,R_1KpYJRHb4szrW2N,,,,,,,qr,ES,1,1,1,1,1,1,1,1,1,1,,,,1,1,1,1,,1,1,,,1,,,,,,,,1,1,,,,,1,,,,,,,,,1,,,,,1,,1,,,1,1,1,1,,,,1,,,1,1,1,1,,,2,,1,,,6,
+2022-04-21 00:40:07,2022-04-21 00:45:59,0,152.231.33.29,100,352,1,2022-04-21 00:46:00,R_27ILCVgVqaXzwFz,,,,,12.1518,-86.2711,qr,ES,1,,1,,,,,,,1,,,1,,,1,1,,1,,,,,1,,,,,,1,,,1,,,,,1,,,,,,,,1,,,,1,,,,,,1,,1,,,,1,,,,1,,1,,,,1,,,,1,2,
+2022-04-21 00:39:32,2022-04-21 00:46:07,0,104.28.94.116,100,394,1,2022-04-21 00:46:07,R_1Qo6w7yORYd2OAX,,,,,12.1518,-86.2711,qr,ES,1,1,1,1,1,1,1,1,1,1,,,,,,,,,,,1,,,,1,,,,,,1,,,1,,,,1,,,,,,,,1,,,,,1,1,,,,1,1,1,1,,,1,1,,,1,1,1,1,,,1,,,,1,2,
+2022-04-21 00:40:03,2022-04-21 00:46:53,0,190.106.10.114,100,409,1,2022-04-21 00:46:53,R_2e5nOkKz0orZyhI,,,,,12.1518,-86.2711,qr,ES,1,,1,,,,,,,1,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,1,,,,,1,,,,,,,,,1,,1,,,,,,,,1,,,,,,1,,,1,,1,
+2022-04-21 00:41:10,2022-04-21 00:47:00,0,152.231.35.157,100,349,1,2022-04-21 00:47:01,R_2V90jjbc70kMKDu,,,,,12.1518,-86.2711,qr,ES,1,1,1,1,1,1,1,1,1,1,,,1,1,1,1,1,1,1,1,1,,1,,,,,,,,1,,1,,,,,1,,,,,,,1,,,,,,1,1,,,,1,,1,1,,,1,1,,,1,,1,1,,,,,,,,,
+2022-04-21 00:44:14,2022-04-21 00:47:54,0,186.77.136.104,100,220,1,2022-04-21 00:47:54,R_2EuccC1q6glCXyW,,,,,12.1518,-86.2711,qr,ES,1,1,1,1,1,1,1,1,,1,,,,,,,,,,,1,,,,,1,,,,,1,,1,,,,1,,,,,,,,,1,,,,,1,1,,,,1,,1,1,,,1,1,,,1,1,,1,,,1,,,1,,5,0010909880026V
+2022-04-21 00:43:15,2022-04-21 00:48:15,0,190.106.10.114,100,299,1,2022-04-21 00:48:15,R_1nTRTNUcinJhaH3,,,,,12.1518,-86.2711,qr,ES,1,,1,1,,1,1,1,1,,,,,1,,1,,,1,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,1,,1,,,,,,,,1,,1,,,,1,,,1,,2,
+2022-04-21 00:39:39,2022-04-21 00:48:23,0,152.231.33.3,100,523,1,2022-04-21 00:48:23,R_A6RHt46bWrqMu9r,,,,,12.1518,-86.2711,qr,ES,1,,,,,1,,1,,1,,,,1,1,,1,1,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,1,,,1,1,,,,,,,,,1,,1,,,,1,1,,,,6,
+2022-04-21 00:44:23,2022-04-21 00:48:34,0,190.106.10.114,100,251,1,2022-04-21 00:48:34,R_1gb9in4JatfoPLz,,,,,12.1518,-86.2711,qr,ES,1,1,1,1,1,1,1,1,1,1,,,1,1,1,1,1,1,1,1,1,,,,1,,1,,,,,,1,,,,,1,,,,,,,,1,,,,,1,,1,,,1,,1,,,,,1,,,1,1,1,1,,,1,,,1,,4,
+2022-04-21 00:42:26,2022-04-21 00:49:10,0,190.106.10.114,100,403,1,2022-04-21 00:49:11,R_5tHQMfDhYPS7Qqt,,,,,12.1518,-86.2711,qr,ES,,,,1,,,,,1,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,1,,1,,,,,,,,1,1,,,,,3,,,1,,6,
+2022-04-21 00:43:34,2022-04-21 00:49:12,0,190.106.10.114,100,337,1,2022-04-21 00:49:12,R_01D3ao0EpzZ5LGh,,,,,12.1518,-86.2711,qr,ES,1,1,1,1,1,1,1,1,1,1,,,,,,,,,,,1,,1,,,,,,,,1,1,,,,,,1,,,,,,,,1,,,,,1,,1,,,1,,,1,,,,1,,,1,,,1,,,1,,,,1,4,
+2022-04-21 00:43:35,2022-04-21 00:49:54,0,186.77.136.111,100,378,1,2022-04-21 00:49:55,R_3J4MhGfGIaZxFX7,,,,,12.1518,-86.2711,qr,ES,1,,1,1,1,1,1,1,,1,,,1,1,1,,,,,,1,,,,,1,,,,,1,1,,,,,1,,,,,,,,,1,,,,,1,,,,,1,1,,,,,,,,,1,1,,1,,,1,1,,,,5,
+2022-04-21 00:44:56,2022-04-21 00:51:09,0,190.106.10.114,100,373,1,2022-04-21 00:51:10,R_1doRpMB0vBnoGw3,,,,,12.1518,-86.2711,qr,ES,1,,1,1,1,1,1,,1,1,,,1,1,,,1,,1,,1,,,,,1,1,,,,,,,,,,,1,,,,1,,,,,,,,,1,1,,,,1,1,1,1,,,1,,,,1,1,1,,,,1,,,1,,3,
+2022-04-21 00:43:49,2022-04-21 00:51:40,0,186.77.136.211,100,471,1,2022-04-21 00:51:40,R_2tbV6iMQcwgmn7n,,,,,12.1518,-86.2711,qr,ES,1,,1,1,1,,1,1,,1,,,1,,1,,,1,,,,,,,1,,,,,,1,,,,,,,1,,,,,,,,1,,,,,,,1,,,1,1,1,,,,,1,,,1,,,,,,1,1,,,,5,
+2022-04-21 00:44:21,2022-04-21 00:52:09,0,152.231.35.126,100,468,1,2022-04-21 00:52:10,R_2P814glD1cnwkVa,,,,,12.1518,-86.2711,qr,ES,1,1,1,1,1,1,1,1,,1,,,1,1,1,1,1,1,1,1,1,,,,,1,,,,,1,1,,,,,1,,,,,,,,,1,,,,,1,,1,,,1,,1,1,,,,1,,,1,,1,1,,,1,,,,1,5,0010905890015C
+2022-04-21 00:44:46,2022-04-21 00:52:31,0,152.231.33.27,100,464,1,2022-04-21 00:52:31,R_3nSGBemKXcMrw5K,,,,,12.1518,-86.2711,qr,ES,,,1,1,1,1,1,1,1,1,,,,1,,1,1,,1,,,,,,1,,,,,,,,,,1,,,1,,,,,,,1,,,,,1,,1,1,,,1,,1,,,,1,1,,,1,,1,,,,1,,,1,,5,043_230484_0000S
+2022-04-21 00:48:48,2022-04-21 00:52:53,0,190.106.10.114,100,244,1,2022-04-21 00:52:53,R_AsQCCP8B4D3S957,,,,,12.1518,-86.2711,qr,ES,1,1,1,,1,1,1,,1,1,,,,1,,,,,,,,1,,,,,1,,,,,,,,,,,,,,,1,,,,,1,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,
+2022-04-21 00:48:53,2022-04-21 00:53:54,0,190.106.10.114,100,300,1,2022-04-21 00:53:54,R_3QXhL588NCTvcLt,,,,,12.1518,-86.2711,qr,ES,,,1,,,,,1,,,,,1,,,,,,,,,1,,,,,1,,,,,1,,,,,,1,,,,,,,1,,1,,,,,1,,,,,,,,,,,,,,1,,,,,,1,1,,,,3,
+2022-04-21 00:49:54,2022-04-21 00:55:14,0,152.231.33.3,100,320,1,2022-04-21 00:55:15,R_BVZXHK5hgC4M8Vj,,,,,12.1518,-86.2711,qr,ES,1,,1,1,,,1,1,,,,,1,1,,,1,,1,1,,,,,,1,,,,,1,,,,1,,,1,,,,,,,,1,,,,,1,,1,,,1,1,1,1,,,,1,,,1,1,1,1,,,1,,,1,,5,
+2022-04-21 00:49:37,2022-04-21 00:56:17,0,190.106.10.114,100,400,1,2022-04-21 00:56:18,R_es1q8XhmGieqCvn,,,,,12.1518,-86.2711,qr,ES,1,1,1,1,1,1,1,1,1,1,,,1,1,1,1,1,1,1,1,,,,,,1,,,,,1,,,1,,,1,,,,,,,,,1,,,,,1,,1,,,1,1,1,1,,,,1,,,1,1,1,1,,,1,,,1,,6,
+2022-04-21 00:54:03,2022-04-21 00:57:57,0,152.231.32.196,100,234,1,2022-04-21 00:57:58,R_1IouhcL8qM3cDcK,,,,,12.1518,-86.2711,anonymous,ES,1,,1,1,,,1,1,1,1,,,,,,,,,,,1,,1,,,,,,,1,,,1,,,,,1,,,,,,,1,,,1,,,,,,,,1,1,1,1,,,,,,,1,1,1,1,,,1,,,1,,2,
+2022-04-21 00:52:51,2022-04-21 00:58:17,0,186.77.136.194,100,326,1,2022-04-21 00:58:18,R_2zZsAakjdadA9Pi,,,,,12.1518,-86.2711,qr,ES,1,1,1,1,1,1,1,1,1,1,,,1,1,1,1,1,1,1,1,1,,,,1,,,,,,1,,,,1,,,1,,,,,,,,1,,,,,1,,1,,,1,1,1,1,,,,1,,,1,1,1,1,,,1,,,1,,3,
+2022-04-21 00:55:14,2022-04-21 00:59:31,0,190.106.10.114,100,257,1,2022-04-21 00:59:31,R_3MFL4yRhlK3N5bn,,,,,12.1518,-86.2711,qr,ES,1,1,1,1,1,1,1,1,1,1,,,1,1,1,,,,,,1,,1,,,,1,,,,,,1,,,,,,1,,,,,,,1,,,,,1,,,,,1,1,1,,,,,,,,1,1,1,1,,,1,1,,1,,4,
+2022-04-21 00:52:25,2022-04-21 01:02:17,0,190.106.10.114,100,592,1,2022-04-21 01:02:18,R_1GHaSgCPiBP2we9,,,,,12.1518,-86.2711,anonymous,ES,1,1,1,1,1,1,1,1,,1,,,,,,,,,,,1,,,1,,,1,,,,,,,,1,,1,,,,,,,,,1,,,,,1,,1,,,1,1,1,1,,,,1,,,1,1,1,1,,,1,,,,,2,"Tania karina Rodríguez "
+2022-04-21 00:55:24,2022-04-21 01:03:43,0,190.106.10.114,100,498,1,2022-04-21 01:03:44,R_2UaepKHCJ7c7a4i,,,,,12.1518,-86.2711,anonymous,ES,1,,1,1,1,1,,1,,1,,,1,1,1,,,1,1,,,,,,,1,,,,1,,,,,1,,,,1,,,,,,1,,,,,,1,1,,,,1,,1,,,,,,,,,,,,,,1,,,1,,2,
+2022-04-21 00:59:48,2022-04-21 01:08:20,0,152.231.32.196,100,511,1,2022-04-21 01:08:21,R_W9xisLdgHStimg9,,,,,12.1518,-86.2711,anonymous,ES,1,,1,1,,,,1,1,1,,,1,1,1,,,,,,,1,,,,,,,,,1,,,,1,,,1,,,,,,,,1,,,,1,,,1,,,1,,1,,,,,1,,,1,,1,,,,1,,,1,,2,
+2022-04-21 00:43:48,2022-04-21 00:56:53,0,190.106.10.114,90,785,0,2022-04-28 00:57:00,R_2VyAWrHbrD5O2UV,,,,,,,qr,ES,1,1,1,1,1,1,1,1,1,1,,,1,1,1,,1,1,1,,,,,,,1,,,,,1,,,,,1,1,,,,,,,,,1,,,,,1,1,1,,,1,1,1,1,,,1,1,,,1,1,1,1,,,1,,,1,,6,
+2022-04-21 00:43:40,2022-04-21 00:48:03,0,186.77.138.228,90,262,0,2022-04-28 02:36:14,R_1CHLjbCnrROXXec,,,,,,,qr,ES,,,1,1,1,1,1,1,,1,,,1,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,1,,5,
+2022-04-22 03:45:55,2022-04-22 20:51:44,0,190.212.57.126,60,61548,0,2022-04-29 20:51:54,R_2BwVSQJGrXFb2f2,,,,,,,qr,ES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-05-28 20:29:27,2022-05-28 20:32:06,0,152.231.35.147,100,159,1,2022-05-28 20:32:06,R_WkTO4bxwfysUteF,,,,,12.1518,-86.2711,qr,ES,,,,,,1,,1,,,,,,,,1,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,1,,,,,,,,,2,,,1,,2,
+2022-05-28 20:20:57,2022-05-28 20:32:09,0,152.231.35.87,100,672,1,2022-05-28 20:32:09,R_xGkVcxYsfetEqPL,,,,,12.1518,-86.2711,anonymous,ES,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,1,,6,
+2022-05-28 20:34:28,2022-05-28 20:35:07,0,190.106.10.114,100,39,1,2022-05-28 20:35:08,R_1osTWrDnS0TZ953,,,,,12.1518,-86.2711,qr,ES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Daniel kim
+2022-05-28 20:30:09,2022-05-28 20:35:26,0,152.231.35.24,100,317,1,2022-05-28 20:35:27,R_2QMMBVxPIWvGWK9,,,,,12.1518,-86.2711,qr,ES,1,,1,1,,1,,1,,1,,,,1,1,1,,,1,1,,,,,1,,,,,,1,1,,,,,1,,,,,,,,,1,,,,,1,,1,,,1,1,1,1,,,,1,,,1,1,1,1,,,1,,,1,,4,
+2022-05-28 20:28:55,2022-05-28 20:36:20,0,190.106.10.114,100,445,1,2022-05-28 20:36:21,R_1n1RZwiB7T5ZbbC,,,,,12.1518,-86.2711,qr,ES,1,1,1,1,1,1,1,,1,,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,1,,2,
+2022-05-28 20:32:51,2022-05-28 20:37:28,0,186.77.136.120,100,276,1,2022-05-28 20:37:28,R_1PU9aZbzWIKUBDl,,,,,12.1518,-86.2711,qr,ES,,,,1,,,,1,1,,,,,1,,,,,1,,,,,1,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,1,1,,,,,,,,,1,,1,,,,1,,,1,,5,
+2022-05-28 20:32:51,2022-05-28 20:37:28,0,152.231.35.87,100,277,1,2022-05-28 20:37:28,R_1nMYzEFqze8K8Y3,,,,,12.1518,-86.2711,anonymous,ES,1,,1,1,1,1,,1,1,1,,,,,,1,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,1,1,,,,,,,,,1,,1,,,,2,,,1,,6,
+2022-05-28 20:31:24,2022-05-28 20:38:15,0,190.106.10.114,100,411,1,2022-05-28 20:38:16,R_3Kp7BwBXuRJfQmW,,,,,12.1518,-86.2711,qr,ES,1,,1,,,1,,1,,,,,,,,,,,,,1,,1,,,,,,,,1,,1,,,,,1,,,,,,,,1,,,,,1,,,,,1,1,,1,,,,,,,1,1,,,,,2,,,1,,3,
+2022-05-28 20:33:54,2022-05-28 20:38:22,0,186.77.132.139,100,268,1,2022-05-28 20:38:23,R_qwJLHlmZa5UMF21,,,,,12.1518,-86.2711,qr,ES,,1,1,,,,,1,,,,,,1,,,1,,,,,,,,1,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,1,,,,,,,,,,1,,,,,,2,1,,,,6,
+2022-05-28 20:32:56,2022-05-28 20:38:32,0,186.77.132.241,100,336,1,2022-05-28 20:38:32,R_2Vn1kV3j6zFUiGO,,,,,12.1518,-86.2711,qr,ES,,,1,1,1,1,,,1,1,,,1,1,1,1,1,1,1,1,1,,,,,,,,,1,,1,,,,,1,,,,,,,,,1,,,,,1,1,1,,,1,1,1,1,,,1,1,,,1,1,1,,,,2,,,,,6,
+2022-05-28 20:36:41,2022-05-28 20:38:55,0,190.106.10.114,100,133,1,2022-05-28 20:38:55,R_3POheA7FqkJNLOI,,,,,12.1518,-86.2711,qr,ES,1,1,1,1,1,1,1,1,1,1,,,1,1,1,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,1,,3,
+2022-05-28 20:32:24,2022-05-28 20:39:00,0,186.77.136.99,100,395,1,2022-05-28 20:39:01,R_2rAgOfwvFzXoFxb,,,,,12.1518,-86.2711,qr,ES,1,,1,1,1,1,1,,1,1,,,1,1,,,1,,,,,,1,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,1,1,1,,,,,,,,1,1,1,,,,2,1,,,,3,
+2022-05-28 20:32:37,2022-05-28 20:39:14,0,186.77.132.129,100,396,1,2022-05-28 20:39:14,R_1C2UBn1z4PFM2OK,,,,,12.1518,-86.2711,qr,ES,1,1,1,1,1,1,1,1,1,1,,,1,1,1,1,1,1,1,1,1,1,,,,,,,,,1,1,,,,,1,,,,,,,,,1,,,,,1,,,,,1,1,1,1,,,,,,,1,1,1,1,,,2,,,1,,3,
+2022-05-28 20:35:24,2022-05-28 20:42:45,0,190.106.10.114,100,441,1,2022-05-28 20:42:46,R_2AGWzGfa2MHy19v,,,,,12.1518,-86.2711,qr,ES,1,1,1,1,1,1,1,1,1,,,,1,1,1,1,,,,,,,,,1,,,,,1,,,1,,,,,1,,,,,,,1,,,,,1,,1,,,,1,1,,,,,1,1,,,1,1,1,1,,,2,,,1,,6,
+2022-05-28 20:33:40,2022-05-28 20:38:36,0,152.231.33.10,90,295,0,2022-06-04 20:38:41,R_1IGYJlSaI2kX2sC,,,,,,,qr,ES,1,1,,,,,,1,,,,,1,1,1,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,,,,,,,,1,1,,,,,2,,,1,,6,
